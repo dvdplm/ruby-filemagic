@@ -8,3 +8,8 @@ o Initial release.
 
 o Added manual close method
 o Added unit test suite
+
+--------------------------------------------------------------------------------
+9/8/2009 version 0.1.2
+
+o Added compatibility with Ruby 1.9
